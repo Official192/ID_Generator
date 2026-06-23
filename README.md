@@ -2,4 +2,4 @@
 # ID-Generator
 ID-Generator for your websites for free!
 
-https://official192.github.io/ID-Generator/
+https://official192.github.io/ID_Generator/
