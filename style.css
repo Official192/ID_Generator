@@ -1,18 +1,12 @@
    body{
-         background-image: url(assets/peak_background.jpg);
+         background-image: url(assets/peak_background.svg);
          background-position: center;
          background-repeat: no-repeat;
          background-size: cover;
       }
 
-      input:focus{
-        outline: none; 
-      }
+      input:focus{ outline: none;}
 
-      h1{
-        color: #753557;
-      }
+      h1{color: #753557;}
 
-      button{
-        background-color: #312650 !important;
-      }
+      button{background-color: #312650 !important;}
